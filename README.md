@@ -313,16 +313,14 @@ class WhoAmI {
 
 ### Quick stats about me
 
-![Shubham Keshari's github stats](https://github-readme-stats.vercel.app/api?username=keshari05&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true)
-
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=keshari05)](https://github.com/keshari05/github-readme-stats)
 
-<br/>
 
-![Shubham Keshari's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=keshari05&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true&layout=compact)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=keshari05)
 
 <p>
   <img
+    width="500px"
     align="center"
     src="https://github-readme-streak-stats.herokuapp.com/?user=keshari05&"
     alt="keshari"
