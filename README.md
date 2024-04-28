@@ -11,3 +11,28 @@
   [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shubhamkeshari005@gmail.com)
 </div>
 <br>
+
+<h3>How I'd define myself...literally</h3>
+
+```javascript
+class WhoAmI {
+    get name() {
+	return "Shubham Keshari";
+    }
+    get work() {
+	return "Working as a Senior Software Developer at Walkover";
+    }
+    get hobbies() {
+	return ["Reading Books", "Exploring new places", "Guitar"];
+    }
+    get currentLocation() {
+	return "Indore, India";
+    }
+    get currently() {
+	return ["Enjoying learning some new technologies", "Planning new trip"];
+    }
+}
+```
+
+<br>
+### What I always play with
