@@ -311,9 +311,19 @@ class WhoAmI {
 
 <p>
   <img
+    align="center"
+    src="https://github-readme-stats.vercel.app/api?username=keshari05&show=reviews,discussions_started,discussions_answered,prs_merged&show_icons=true&theme=transparent&rank_icon=github&custom_title=Github+stats"
+    alt="keshari"
+  />
+  <img
+    align="center"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=keshari05&layout=compact&theme=transparen"
+    alt="keshari"
+  />
+<!--   <img
     width="500px"
     align="center"
     src="https://github-readme-streak-stats.herokuapp.com/?user=keshari05&"
     alt="keshari"
-  />
+  /> -->
 </p>
