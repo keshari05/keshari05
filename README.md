@@ -56,11 +56,4 @@ class WhoAmI {
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=keshari05&show=reviews,discussions_started,discussions_answered,prs_merged&show_icons=true&theme=transparent&rank_icon=github&custom_title=Github+stats&border_color=30363d)
 
-<div style="margin-bottom: 16px; border: 1px solid #30363d;">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=keshari05&layout=compact&theme=transparent&border_color=30363d"
-    alt="keshari"
-  />
-</div>
-
 ![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=keshari05&layout=compact&theme=transparent&border_color=30363d)
