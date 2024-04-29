@@ -55,7 +55,7 @@ class WhoAmI {
 <!--,prs_merged_percentage-->
 <div>
   <img
-    src="https://github-readme-stats.vercel.app/api?username=keshari05&show=reviews,discussions_started,discussions_answered,prs_merged&show_icons=true&theme=transparent&rank_icon=github&custom_title=Github+stats&border_color=#FFFFFF&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api?username=keshari05&show=reviews,discussions_started,discussions_answered,prs_merged&show_icons=true&theme=transparent&rank_icon=github&custom_title=Github+stats&hide_border=true"
     alt="keshari"
   />
 </div>
