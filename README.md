@@ -304,7 +304,7 @@ class WhoAmI {
 
 ### Quick stats about me
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=keshari05)](https://github.com/keshari05/github-readme-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=keshari05&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=transparent)
 
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=keshari05)
 
