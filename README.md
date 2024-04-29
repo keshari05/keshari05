@@ -29,7 +29,7 @@ class WhoAmI {
 	return "Indore, India";
     }
     get currently() {
-	return ["Enjoying learning some new technologies", "Planning new trip"];
+	return ["Learning some new technologies", "Planning a new trip"];
     }
 }
 ```
