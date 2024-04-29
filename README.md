@@ -54,7 +54,7 @@ class WhoAmI {
 </div>
 <!--,prs_merged_percentage-->
 
-[![GitHub stats]([https://github-readme-stats.vercel.app/api?username=anuraghazra](https://github-readme-stats.vercel.app/api?username=keshari05&show=reviews,discussions_started,discussions_answered,prs_merged&show_icons=true&theme=transparent&rank_icon=github&custom_title=Github+stats&border_color=30363d))](https://github.com/keshari05/github-readme-stats)
+![GitHub stats]([https://github-readme-stats.vercel.app/api?username=anuraghazra](https://github-readme-stats.vercel.app/api?username=keshari05&show=reviews,discussions_started,discussions_answered,prs_merged&show_icons=true&theme=transparent&rank_icon=github&custom_title=Github+stats&border_color=30363d))](https://github.com/keshari05/github-readme-stats)
 
 <div style="margin-bottom: 16px; border: 1px solid #30363d;">
   <img
