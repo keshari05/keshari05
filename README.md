@@ -49,9 +49,6 @@ class WhoAmI {
 </p>
 
 ### Quick stats about me
-<div style="margin-bottom: 16px; border: 1px solid #30363d;">
-  <img src="https://streak-stats.demolab.com?user=keshari05&theme=transparent&border=30363d" alt="GitHub Streak" />
-</div>
 
 ![GitHub stats](https://streak-stats.demolab.com?user=keshari05&theme=transparent&border=30363d)
 
@@ -65,3 +62,5 @@ class WhoAmI {
     alt="keshari"
   />
 </div>
+
+![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=keshari05&layout=compact&theme=transparent&border_color=30363d)
