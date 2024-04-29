@@ -304,9 +304,10 @@ class WhoAmI {
 
 ### Quick stats about me
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=keshari05&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=transparent)
+<!--,prs_merged_percentage-->
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=keshari05&show=reviews,discussions_started,discussions_answered,prs_merged&show_icons=true&theme=transparent&rank_icon=github&custom_title=Github+stats)
 
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=keshari05)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=keshari05&layout=compact)
 
 <p>
   <img
