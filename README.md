@@ -50,18 +50,18 @@ class WhoAmI {
 
 ### Quick stats about me
 <div style="margin-bottom: 16px; border: 1px solid #30363d;">
-  <img src="https://streak-stats.demolab.com?user=keshari05&theme=transparent&border_color=#30363d" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=keshari05&theme=transparent&border_color=30363d" alt="GitHub Streak" />
 </div>
 <!--,prs_merged_percentage-->
 <div style="margin-bottom: 16px; border: 1px solid #30363d;">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=keshari05&show=reviews,discussions_started,discussions_answered,prs_merged&show_icons=true&theme=transparent&rank_icon=github&custom_title=Github+stats&border_color=#30363d"
+    src="https://github-readme-stats.vercel.app/api?username=keshari05&show=reviews,discussions_started,discussions_answered,prs_merged&show_icons=true&theme=transparent&rank_icon=github&custom_title=Github+stats&border_color=30363d"
     alt="keshari"
   />
 </div>
 <div style="margin-bottom: 16px; border: 1px solid #30363d;">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=keshari05&layout=compact&theme=transparent&border_color=#30363d"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=keshari05&layout=compact&theme=transparent&border_color=30363d"
     alt="keshari"
   />
 </div>
