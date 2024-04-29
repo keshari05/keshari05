@@ -36,6 +36,12 @@ class WhoAmI {
 
 ### What I always play with
 
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,ts,angular,react,redux&theme=dark&perline=8"/>
+</p>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=reactivex,materialui,nodejs,express,mongodb,mysql,vscode,figma,postman,git&theme=dark&perline=10"/>
+</p>
 <p>
   <img
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
