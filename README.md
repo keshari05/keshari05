@@ -50,7 +50,7 @@ class WhoAmI {
 
 ### Quick stats about me
 <div style="margin-bottom: 16px; border: 1px solid #30363d;">
-  <img src="https://streak-stats.demolab.com?user=keshari05&theme=transparent&border_color=#30363d" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=keshari05&theme=transparent&border=30363d" alt="GitHub Streak" />
 </div>
 <!--,prs_merged_percentage-->
 <div style="margin-bottom: 16px; border: 1px solid #30363d;">
