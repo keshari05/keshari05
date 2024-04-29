@@ -307,7 +307,7 @@ class WhoAmI {
 <!--,prs_merged_percentage-->
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=keshari05&show=reviews,discussions_started,discussions_answered,prs_merged&show_icons=true&theme=transparent&rank_icon=github&custom_title=Github+stats)
 
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=keshari05&layout=compact)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=keshari05&layout=compact&theme=transparent)
 
 <p>
   <img
