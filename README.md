@@ -305,16 +305,18 @@ class WhoAmI {
 ### Quick stats about me
 
 <!--,prs_merged_percentage-->
-<p>
+<div>
   <img
-    align="center"
-    src="https://github-readme-stats.vercel.app/api?username=keshari05&show=reviews,discussions_started,discussions_answered,prs_merged&show_icons=true&theme=transparent&rank_icon=github&custom_title=Github+stats"
+    src="https://github-readme-stats.vercel.app/api?username=keshari05&show=reviews,discussions_started,discussions_answered,prs_merged&show_icons=true&theme=transparent&rank_icon=github&custom_title=Github+stats&hide_border=true"
     alt="keshari"
   />
+</div>
+<div>
   <img
-    align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=keshari05&layout=compact&theme=transparent"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=keshari05&layout=compact&theme=transparent&hide_border=true"
     alt="keshari"
   />
+</div>
+<div>
   <img src="https://streak-stats.demolab.com?user=keshari05&theme=transparent&hide_border=true" alt="GitHub Streak" />
-</p>
+</div>
