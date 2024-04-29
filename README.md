@@ -49,17 +49,17 @@ class WhoAmI {
 </p>
 
 ### Quick stats about me
-<div align="center">
+<div>
   <img src="https://streak-stats.demolab.com?user=keshari05&theme=transparent" alt="GitHub Streak" />
 </div>
 <!--,prs_merged_percentage-->
-<div align="center">
+<div>
   <img
     src="https://github-readme-stats.vercel.app/api?username=keshari05&show=reviews,discussions_started,discussions_answered,prs_merged&show_icons=true&theme=transparent&rank_icon=github&custom_title=Github+stats&border_color=#FFFFFF"
     alt="keshari"
   />
 </div>
-<div align="center">
+<div>
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=keshari05&layout=compact&theme=transparent&border_color=#FFFFFF"
     alt="keshari"
