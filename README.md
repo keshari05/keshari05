@@ -20,7 +20,7 @@ class WhoAmI {
 	return "Shubham Keshari";
     }
     get work() {
-	return "Working as a Senior Software Developer at Walkover";
+	return "Working as a IT Analyst at TCS";
     }
     get hobbies() {
 	return ["Reading Books", "Exploring new places", "Guitar"];
@@ -34,7 +34,7 @@ class WhoAmI {
 }
 ```
 
-### What I always play with
+<!-- ### What I always play with
 <p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,ts,angular,react,redux&theme=dark&perline=8"/>
 </p>
@@ -45,8 +45,8 @@ class WhoAmI {
 ### What I sometimes play with
 <p align="center">
 <img src="https://skillicons.dev/icons?i=jquery,aws,electron,cypress,babel,webpack,firebase&theme=dark&perline=7"/>
-<!-- https://github.com/tandpfun/skill-icons -->
-</p>
+<!-- https://github.com/tandpfun/skill-icons
+</p> -->
 
 ### Quick stats about me
 
