@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hello! I'm Shubham Keshari</h1>
 
 <p align="center">
-  I'm a full-stack developer and designer building digital products following MVP (Minimal viable product). I am on a coding roller coaster, sometimes I enjoy & sometimes I use <code>console.log('Let’s decode the mystery!')</code>
+  I'm a Full-Stack Next.js Developer building digital products following MVP (Minimal viable product). I am on a coding roller coaster, sometimes I enjoy & sometimes I use <code>console.log('Let’s decode the mystery!')</code>
 </p>
 
 <p align="center">When I'm not coding find me reading books, exploring new places and playing guitar.</p>
